@@ -1,0 +1,24 @@
+{
+    "name": "Reactstrap-Grid",
+    "version": "1.0.0",
+    "private": false,
+    "dependencies": {
+        "lodash": "^4.17.20",
+        "prop-types": "^15.7.2",
+        "react": "16.8.6",
+        "reactstrap": "8.0.0",
+        "moment": "^2.19.2"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
